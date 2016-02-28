@@ -1,0 +1,12 @@
+http://www.csszengarden.com/
+ http://codepen.io/carolineartz/pen/ogVXZj/
+https://css-tricks.com/
+http://the-echoplex.net/flexyboxes/
+http://flexboxfroggy.com/
+http://getskeleton.com/
+http://learn.shayhowe.com/advanced-html-css/transitions-animations/
+https://robots.thoughtbot.com/css-animation-for-beginners
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+https://css-tricks.com/almanac/properties/a/animation/
+http://www.w3schools.com/css/css3_animations.asp
+http://tobiasahlin.com/blog/curved-path-animations-in-css/
