@@ -5,7 +5,7 @@ for jobs:
   ensure facebook professional
   apply for temp TA position for experience while doing job search
   
-projects
+projects:
   implement portfolio modules, get presentable
   finish calculator
   clean up/finish sirenfinder
@@ -14,6 +14,6 @@ projects
   better art for snake
 
 social presence:
-  figure out twitter, how to use as part of professional social presence
+  figure out twitter, how to use as part of professional social presence, stay up to date
   
   

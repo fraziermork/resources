@@ -35,7 +35,7 @@ https://en.wikipedia.org/wiki/WebGL   e.g. https://jayweeks.com/medusae/
 games:
 http://jlongster.com/Making-Sprite-based-Games-with-Canvas
 
-functions to learn more about:
+functions to learn more about in JS and jquery:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Methods_2
 http://api.jquery.com/offset/
 https://api.jquery.com/jQuery.proxy/
@@ -45,3 +45,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame
 https://developer.mozilla.org/en-US/docs/Web/API/History
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
 http://api.jquery.com/jquery.ajax/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://api.jquery.com/category/deferred-object/
+https://api.jquery.com/jquery.when/

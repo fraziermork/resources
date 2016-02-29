@@ -15,7 +15,7 @@ advice from socrata talk:
 
 advice from codefellows panel:
   post as much code as possible to github, regardless of whether it is finished
-  be honest that you are a junior developer, don't interview for jobs for senior devs
+  start with looking for jobs for junior developers, higher ones may expect more exp than you have
   it's ok to apply for jobs that say they require a couple years or whatever--that's their ideal, not what they expect
   demonstrated writing ability is also important
   customize your applications, cover letters, resume for positions, companies
