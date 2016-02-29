@@ -2,6 +2,11 @@ quick feedback:
 http://codepen.io  
 https://jsfiddle.net/
 
+weird stuff:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties
+http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
+https://msdn.microsoft.com/en-us/library/wwbyhkx4(v=vs.94).aspx
+
 
 general js:
 
@@ -12,10 +17,6 @@ http://benalman.com/news/2010/11/immediately-invoked-function-expression/       
 http://skilldrick.co.uk/2011/04/closures-explained-with-javascript/                   --closures
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript   --mdn intro/guide
 
-
-http://reactivex.io/learnrx/ 
-
-
 frameworks, libraries, etc:
 https://www.javascripting.com/
 https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
@@ -25,19 +26,14 @@ https://en.wikipedia.org/wiki/AngularJS
 https://en.wikipedia.org/wiki/Backbone.js
 https://en.wikipedia.org/wiki/Node.js
 
-
-
 jquery:
 http://youmightnotneedjquery.com/
-
 
 graphics:
 https://en.wikipedia.org/wiki/WebGL   e.g. https://jayweeks.com/medusae/
 
-
 games:
 http://jlongster.com/Making-Sprite-based-Games-with-Canvas
-
 
 functions to learn more about:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Methods_2

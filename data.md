@@ -32,9 +32,18 @@ http://www.lab41.org/nine-datasets-for-investigating-recommender-systems/
 
 
 APIs:
+postman
 https://www.quora.com/What-are-some-cool-fun-APIs 
 http://www.computersciencezone.org/50-most-useful-apis-for-developers/ 
 http://www.creativebloq.com/web-design/apis-developers-need-know-121518469
 
 Open data:
 http://www.opendataenterprise.org/map.html
+
+
+
+APIs I have used:
+http://www.zillow.com/howto/api/APIOverview.htm
+https://developers.google.com/maps/documentation/javascript/
+https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp
+http://crossorigin.me/

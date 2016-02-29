@@ -8,3 +8,22 @@ https://www.google.com/fonts
 
 style guides:
 http://everlast.com/style-guide   --example that brian worked on
+
+
+color:
+http://paletton.com/
+http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html
+http://www.colourlovers.com/web/palettes
+https://color.adobe.com/explore/most-popular/?time=all
+
+
+placeholders:
+placeholder.it/<imagesize>
+
+
+wireframing:
+https://moqups.com/
+
+
+image editing:
+https://pixlr.com/editor/
