@@ -1,3 +1,6 @@
+structure:
+https://smacss.com/
+
 examples:
 http://www.csszengarden.com/
 http://swissincss.com/

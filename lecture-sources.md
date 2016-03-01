@@ -5,8 +5,9 @@ Codeschool
 coursera
 edX
 treehouse
+pluralsight
 https://www.youtube.com/user/derekbanas/videos
-
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
 
 bootcamps:
 https://www.codefellows.org/        https://github.com/codefellows/

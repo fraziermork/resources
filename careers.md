@@ -43,6 +43,7 @@ things to learn for front end dev:
 
 
 Things to look into for data jobs:
+  learn python
   Google analytics
   bigQuery
   tableau
