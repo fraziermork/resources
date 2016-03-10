@@ -8,6 +8,9 @@ https://github.com/workshopper/learnyounode -- simple exercises, completed
 https://docs.nodejitsu.com/ -- collected articles to learn
 https://github.com/substack/stream-handbook#introduction --all about streams
 https://github.com/maxogden/art-of-node -- nice introductory article
+http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb --reading recommended in intro node tutorial
+http://martinfowler.com/articles/injection.html -dependency injection
+http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html --functional programming reading
 
 testing:
 https://mochajs.org/    or http://jasmine.github.io/

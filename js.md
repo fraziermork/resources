@@ -6,9 +6,10 @@ weird stuff:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties
 http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 https://msdn.microsoft.com/en-us/library/wwbyhkx4(v=vs.94).aspx
-
+https://bost.ocks.org/mike/chart/ --really cool to see how they were building reusable code
 
 general js:
+javascript the good parts
 
 functional js:
 http://www.sitepoint.com/currying-in-functional-javascript/                           --currying
