@@ -15,6 +15,7 @@ http://www.amazon.fr/gp/product/0984782850/ref=as_li_ss_tl?ie=UTF8&tag=care05-20
 http://www.careercup.com/page?pid=amazon-interview-questions
 https://www.reddit.com/r/CS_Questions 
 book: cracking the coding interview -- gayle laakmann mcdowell --sam bought this
+http://blog.triplebyte.com/how-to-pass-a-programming-interview
 
 
 good places to search for jobs:

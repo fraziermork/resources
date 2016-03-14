@@ -10,6 +10,7 @@ https://bost.ocks.org/mike/chart/ --really cool to see how they were building re
 
 general js:
 javascript the good parts
+way to join objects in javascript?
 
 functional js:
 http://www.sitepoint.com/currying-in-functional-javascript/                           --currying

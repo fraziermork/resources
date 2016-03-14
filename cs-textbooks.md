@@ -11,8 +11,13 @@ http://greenteapress.com/wp/
 https://www.reddit.com/r/compsci/comments/v4z58/what_are_some_good_introductory_books_on_computer/
 https://www.quora.com/What-are-some-Computer-Science-books-for-beginners
 https://github.com/codefellows/book_recommendations_and_resources
-
+The Algorithm Design Manual -- stephen skiena
 
 js:
 http://eloquentjavascript.net/
 https://github.com/getify/You-Dont-Know-JS
+
+
+https://www.coursera.org/course/algo
+
+http://highscalability.com/

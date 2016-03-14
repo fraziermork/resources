@@ -8,13 +8,13 @@ http://sqlite.org/lang.html
 https://en.wikipedia.org/wiki/SQL_injection 
 http://www.cheat-sheets.org/sites/sql.su/
 http://sqlfiddle.com/#!9/dcb16/1
-
+http://sol.gfxile.net/g3/
 
 Other Database:
 https://en.wikipedia.org/wiki/MongoDB
 https://en.wikipedia.org/wiki/NoSQL
 https://www.npmjs.com/package/mongoose
-
+http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/
 
 charts:
 http://www.chartjs.org/docs/
