@@ -10,14 +10,6 @@ https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
 https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
 https://en.wikipedia.org/wiki/Ajax_(programming) 
 
-security:
-https://en.wikipedia.org/wiki/OWASP
-https://en.wikipedia.org/wiki/SQL_injection 
-https://en.wikipedia.org/wiki/Cross-site_scripting
-https://en.wikipedia.org/wiki/Cross-site_request_forgery
-https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
-http://www.veracode.com/security/sql-injection
-obfuscation 
 
 
 

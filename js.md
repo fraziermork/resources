@@ -7,10 +7,17 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_owners
 http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 https://msdn.microsoft.com/en-us/library/wwbyhkx4(v=vs.94).aspx
 https://bost.ocks.org/mike/chart/ --really cool to see how they were building reusable code
+http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/
 
 general js:
 javascript the good parts
 way to join objects in javascript?
+https://babeljs.io/docs/learn-es2015/
+http://es6-features.org/
+
+
+other people's class notes:
+https://github.com/emilyaviva/notes-codefellows-js-dev
 
 functional js:
 http://www.sitepoint.com/currying-in-functional-javascript/                           --currying
@@ -27,6 +34,12 @@ https://en.wikipedia.org/wiki/Ember.js
 https://en.wikipedia.org/wiki/AngularJS
 https://en.wikipedia.org/wiki/Backbone.js
 https://en.wikipedia.org/wiki/Node.js
+
+
+
+promises:
+https://github.com/wbinnssmith/awesome-promises
+https://github.com/petkaantonov/bluebird#what-are-promises-and-why-should-i-use-them
 
 jquery:
 http://youmightnotneedjquery.com/

@@ -55,6 +55,9 @@ Things to look into for data jobs:
 
 
 
+emily speaking:
+
+
 
 
   
