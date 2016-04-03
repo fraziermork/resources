@@ -22,11 +22,11 @@ good places to search for jobs:
 indeed    http://www.programmableweb.com/api/indeed
 craigslist
 monster
-http://careers.stackoverflow.com/   https://github.com/Ericat/stackoverflow-career-api
-https://jobs.github.com/      http://www.programmableweb.com/api/github-jobs
-https://masterbranch.com/    http://www.programmableweb.com/api/masterbranch
-https://www.talentbin.com/    http://www.programmableweb.com/api/talentbin
-https://coderbits.com/      http://www.programmableweb.com/api/coderbits-profile
+http://careers.stackoverflow.com/    https://github.com/Ericat/stackoverflow-career-api
+https://jobs.github.com/             http://www.programmableweb.com/api/github-jobs
+https://masterbranch.com/            http://www.programmableweb.com/api/masterbranch
+https://www.talentbin.com/           http://www.programmableweb.com/api/talentbin
+https://coderbits.com/               http://www.programmableweb.com/api/coderbits-profile
 
 
 Jobplaces:
@@ -52,12 +52,17 @@ Things to look into for data jobs:
   adobe omniture
 
 
-
+interviewing:
+  https://github.com/careercup/ctci
 
 
 emily speaking:
-
-
-
-
+  stay in touch with CF network 
+  mention quick learner, fast on-boarder
+  ask the why they chose to bring you in to interview
+  ask what their typical day looks like
+  ask for feedback on your code challenge
+  figure out salary negotiation
+    short story: always ask for more
+    if they are making money, ask high
   

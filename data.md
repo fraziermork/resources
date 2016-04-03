@@ -65,3 +65,6 @@ http://www.zillow.com/howto/api/APIOverview.htm
 https://developers.google.com/maps/documentation/javascript/
 https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp
 http://crossorigin.me/
+Amazon sdk for S3
+heroku
+twitter API

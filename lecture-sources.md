@@ -18,3 +18,7 @@ http://www.codingdojo.com/
 
 https://github.com/Ada-Developers-Academy
 https://github.com/gSchool
+
+project-sources:
+https://www.reddit.com/r/FreeCodeCamp/
+http://socialcoder.org/

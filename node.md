@@ -37,3 +37,19 @@ https://gist.github.com/toastynerd/d3e563522977f6750c32
 gulp:
 http://www.sitepoint.com/introduction-gulp-js/
 http://www.hongkiat.com/blog/gulp-vs-grunt/
+
+
+frequently used modules possibly worth being familiar with: 
+https://www.npmjs.com/package/request
+https://www.npmjs.com/package/lodash
+https://www.npmjs.com/package/oauth
+https://www.npmjs.com/package/async
+https://www.npmjs.com/package/twit
+https://www.npmjs.com/package/node-rest-client
+https://www.npmjs.com/package/jsonwebtoken
+https://www.npmjs.com/package/bcrypt
+https://www.npmjs.com/package/bluebird
+https://www.npmjs.com/package/log4js
+https://www.npmjs.com/package/rewire
+https://www.npmjs.com/package/commander
+https://www.npmjs.com/package/sinon
