@@ -18,6 +18,8 @@ http://chaijs.com/
 http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
 
 
+
+
 plugins I've used:
   https://nodejs.org/api/net.html -- used to make server based on socket
   https://nodejs.org/api/http.html -- used to make server w/ request and response streams
@@ -32,7 +34,7 @@ things to learn more about:
 
 Instructions I followed to install node for 401:
 https://gist.github.com/toastynerd/d3e563522977f6750c32
-
+http://trevorniemi.com/2016/04/08/install-angular-js-and-node-js-with-bootstrap-using-npm-in-under-10-minutes/
 
 gulp:
 http://www.sitepoint.com/introduction-gulp-js/

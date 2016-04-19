@@ -1,3 +1,10 @@
+resources:
+http://datasciencemasters.org/
+http://www.datatau.com/
+http://stats.stackexchange.com/
+
+
+
 SQL:
 https://leanpub.com/aprimeronsql/read
 http://sqlbolt.com/

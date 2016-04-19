@@ -6,6 +6,8 @@ coursera
 edX
 treehouse
 pluralsight
+https://www.khanacademy.org/
+https://egghead.io/ -- lots of stuff on angular, react
 https://www.youtube.com/user/derekbanas/videos
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
 

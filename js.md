@@ -8,13 +8,27 @@ http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/
 https://msdn.microsoft.com/en-us/library/wwbyhkx4(v=vs.94).aspx
 https://bost.ocks.org/mike/chart/ --really cool to see how they were building reusable code
 http://eddmann.com/posts/ten-ways-to-reverse-a-string-in-javascript/
+https://davidwalsh.name/essential-javascript-functions
+
+
+keycodes:
+http://keycode.info/
+
+
+
+es6:
+http://es6-features.org/
+https://babeljs.io/docs/learn-es2015/
+http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/ 
+http://www.sitepoint.com/preparing-ecmascript-6-proxies/
+http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/
 
 general js:
 javascript the good parts
 way to join objects in javascript?
 https://babeljs.io/docs/learn-es2015/
 http://es6-features.org/
-
+https://davidwalsh.name/
 
 other people's class notes:
 https://github.com/emilyaviva/notes-codefellows-js-dev
