@@ -24,3 +24,12 @@ http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511
 http://www.sitepoint.com/practical-guide-angularjs-directives/   http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/ 
 
 http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals
+
+learning:
+http://blog.debugme.eu/learn-angularjs/
+
+
+
+
+agnular 2.0
+http://blog.debugme.eu/learn-angular2/

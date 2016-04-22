@@ -9,6 +9,7 @@ Comparisons:
 http://www.developereconomics.com/feature-comparison-of-4-popular-js-mv-frameworks/
 http://readwrite.com/2014/02/06/angular-backbone-ember-best-javascript-framework-for-you/
 https://www.airpair.com/js/javascript-framework-comparison
+http://blog.debugme.eu/javascript-frameworks-for-2016/
 
 
 Homepages:
