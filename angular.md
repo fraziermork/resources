@@ -28,8 +28,16 @@ http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-f
 learning:
 http://blog.debugme.eu/learn-angularjs/
 
+authentication:
+http://brewhouse.io/blog/2014/12/09/authentication-made-simple-in-single-page-angularjs-applications.html
+https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec#.nhf2yuy00
+http://jasonwatmore.com/post/2015/03/10/AngularJS-User-Registration-and-Login-Example.aspx
+http://www.sitepoint.com/implementing-authentication-angular-applications/
+https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating
 
 
+components: 
+https://docs.angularjs.org/guide/component
 
 agnular 2.0
 http://blog.debugme.eu/learn-angular2/

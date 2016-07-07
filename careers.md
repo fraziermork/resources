@@ -5,6 +5,8 @@ http://michaelpumo.com/
 http://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/
 
 
+https://medium.com/life-learning/bots-are-awesome-humans-not-so-much-7b2d62630668#.a405ydeba
+
 internships:
 https://www.launchcode.org/apply    -has internships
 

@@ -90,6 +90,131 @@ searching for job listings:
     dice, indeed, and linkedin 
   save your searches for later
   play around with the wording to find more job listings with slightly different job titles
+
+
+informational recruiter call
+  many of these will be with recruiters who aren't necessarily tech savvy
+  don't underrate yourself, especially given that there will be a ramp-up period
+  they'll prob want to know what CF is, what curriculum is like, etc. 
+    10 week certification
+    bootcamp
+    took 201, 301 beforehand
+  talk about projects that you've been working on
+    intention
+    which tools you used
+    why you chose to use tools you used, decision making, justification
+    requirements
+    explain thought process through the whole thing
+    probably will ask about other aspects, like leadership, etc. 
+  may ask you multiple choice questions 
+  want to know what you were up to before that
+  nontechnical people may also verify your ability by asking you to explain some stuff--knowledge needed to simplify stuff
+  if you are actively interviewing, tell your recruiter because
+    you are getting interviews
+    you look competitive
+    shows you are being valued by many groups/social proof
+    
+code challenge:
+  typically 60-90 min to take an online test
+  usually finish w/ in a week of reeiving the links
+  tracks live coding, work live into the coding challenge, but paste into a local file to save stuff in case internet screws up
+  some sites like hackerrank, have scoring rubrics posted 
+  sooner you do it, the sooner it'll be evaluated
+
+technical phone interview:
+  usually about 60 min 
+  when answer your phone, say 'hello, this is frazier', not 'hello'
+  you share your screen with them as you code
+  you have to talk out loud as you think through a problem 
+  can get partial credit for 'showing your work' by talking your way through
+  
+Questions you can ask them:
+  how often are their sprints
+  what technologies are they using, how often to they change them up, do dif teams use dif ones, etc. 
+
+  
+  
+  
+on-site tech interviews:
+  typically 4-6 hours
+  usually several short 1-1 sessions--ask who they are, what their role is, how I would be interacting with them if I got the job
+  may not always be interviewed by the manager whose team you will be on, esp. at large companies
+    if that's the case, you should definitely ask to meet or talk via phone with the person who would be your actual manager
+  dressing for interviews:
+    may be diff between a tech company vs. a non-tech co looking to hire a dev
+    totally reasonable to ask what to wear to an interview
+  many of these sessions will be technical question sessions, but many will be behavioral interviewing sessions
+  bring own dry erase markers
+  offer to write tests 
+  talk about levels of implementations, mvp vs. more in depth, simple methods vs. more efficient methods, brute force v. elegant etc. 
+  think carefully about the questions you want to ask them:
+    what is ramp up time like?
+    mentorship approach / onboarding? 
+    work life balance
+    approach to continuing education, investing in their employees
+    what is success like in this role
+    growth prospects internally for devs
+    whats the problem solving method for projects that need help, are delayed, etc. 
+    what challenges would I face? 
+    what homework could I do ahead of time to prepare myself?
+    where would I be sitting, how big would my team be, who would I be seeing everyday? 
+    what is work culture like?
+  glassdoor and indeed let you leave comments, indeed actually requires verification that you work there though  
+
+technical side of interviewing:
+  problem solving
+    ask for clarification, engage them, talk to them, 
+    think out loud, justify choices
+  data structures
+    common uses
+    tradeoffs
+    implementation details
+  coding/whiteboarding solutions
+    syntax correct, working
+    language: mem management, common libraries, etc. 
+  oop
+  things I could do to distinguish myself:
+    offer to solve the problem a different way just for fun
+    offer to write tests
+    talk about brute force v elegant solution
+    talk about ways to go further with the problem, if possible, to make it more interesting/better
+
+behavioral side:
+  they are trying to figure out how fast you learn, whether you pick things up from other people, whether you take guidance
+  they're interested in seeing if you're competent, their hints and guidance are valuable, ask for it if you can
+  engage them as a person, be genuine, 
+  they often want to see:
+    ownership in projects
+    how you work on a team
+    what things you actually worked on in the team
+    followthrough 
+    considerations that went into the design
+    results, successes, learning from mistakes, etc. 
+    what you learned from it, what you'd do differently
+  STAR is most common 
+    situation
+    task
+    action 
+    result
+  talking about how you would do better is good--vocally self critical  
+  you want to exude qualities like
+    biased towards action and getting things done
+    capable
+    able to learn new stuff 
+
+interview best practices:
+  practice coding by hand
+  use online coding sites to get used to doing little problems
+  explain your thought process out loud
+  start thinking through prev. exp. and framing them in STAR
+  create list of good questions to ask interviewers
+  
+
+interview homeworks:
+  ask for feedback
+  add readme, comment your code 
+  write tests 
+  write extras if you can--go the extra mile
   
 
 market research links

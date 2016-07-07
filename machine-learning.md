@@ -9,10 +9,12 @@ game theory:
 https://en.wikipedia.org/wiki/Game_theory
 
 
-subreddits:
+subreddits/articles:
 https://www.reddit.com/r/machinelearning
 https://www.reddit.com/r/artificial
 https://www.reddit.com/r/MLQuestions
+medium 
+http://www.oreilly.com/topics/ai
 
 
 introductory articles:
@@ -32,3 +34,8 @@ journals:
 http://jmlr.org/
 http://www.springer.com/computer/ai/journal/10994
 http://arxiv.org/
+
+
+listings: 
+https://www.quora.com/What-are-the-best-developer-blogs-about-JavaScript-development
+http://www.skilledup.com/articles/best-javascript-blogs-to-keep-your-programming-skills-sharp

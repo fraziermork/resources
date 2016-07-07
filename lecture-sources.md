@@ -24,3 +24,10 @@ https://github.com/gSchool
 project-sources:
 https://www.reddit.com/r/FreeCodeCamp/
 http://socialcoder.org/
+
+
+good programming blogs: 
+medium 
+https://egghead.io/
+https://davidwalsh.name/
+http://www.skilledup.com/articles/best-javascript-blogs-to-keep-your-programming-skills-sharp

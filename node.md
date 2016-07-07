@@ -1,3 +1,6 @@
+other people's resource collections:
+https://github.com/sindresorhus/awesome-nodejs#mad-science
+
 server stuff:
 https://http.cat/       --server code reference
   
@@ -18,7 +21,11 @@ http://chaijs.com/
 http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
 
 
+desktop applications:
+https://github.com/electron/electron
 
+command line programs:
+https://www.npmjs.com/package/commander
 
 plugins I've used:
   https://nodejs.org/api/net.html -- used to make server based on socket

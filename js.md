@@ -29,6 +29,8 @@ way to join objects in javascript?
 https://babeljs.io/docs/learn-es2015/
 http://es6-features.org/
 https://davidwalsh.name/
+https://github.com/airbnb/javascript  ----style guide w/ good examples, lots of resources
+https://www.npmjs.com/package/eslint-config-airbnb ---.eslint for the style guide above
 
 other people's class notes:
 https://github.com/emilyaviva/notes-codefellows-js-dev
@@ -40,7 +42,7 @@ http://benalman.com/news/2010/11/immediately-invoked-function-expression/       
 http://skilldrick.co.uk/2011/04/closures-explained-with-javascript/                   --closures
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript   --mdn intro/guide
 
-frameworks, libraries, etc:
+frameworks:
 https://www.javascripting.com/
 https://en.wikipedia.org/wiki/List_of_JavaScript_libraries
 https://en.wikipedia.org/wiki/React_(JavaScript_library)
@@ -48,7 +50,9 @@ https://en.wikipedia.org/wiki/Ember.js
 https://en.wikipedia.org/wiki/AngularJS
 https://en.wikipedia.org/wiki/Backbone.js
 https://en.wikipedia.org/wiki/Node.js
-
+vue 
+angular 2 
+meteor 
 
 
 promises:
@@ -77,3 +81,20 @@ http://api.jquery.com/jquery.ajax/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 https://api.jquery.com/category/deferred-object/
 https://api.jquery.com/jquery.when/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*
+
+generators: 
+https://davidwalsh.name/es6-generators
+https://davidwalsh.name/es6-generators-dive
+https://davidwalsh.name/async-generators
+https://davidwalsh.name/concurrent-generators
+http://www.skilledup.com/articles/best-javascript-blogs-to-keep-your-programming-skills-sharp
+https://msdn.microsoft.com/en-us/library/dn858237(v=vs.94).aspx
+http://www.2ality.com/2015/03/no-promises.html
+http://www.2ality.com/2015/03/es6-generators.html
+
+advanced patterns: 
+https://github.com/tc39/ecmascript-asyncawait
+https://www.npmjs.com/package/thunks  
+http://es6-features.org

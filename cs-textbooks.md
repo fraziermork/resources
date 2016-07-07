@@ -1,6 +1,7 @@
 recommendation lists:
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 https://github.com/chhantyal/influential-cs-books
+http://azat.co/
 https://www.reddit.com/r/compsci
 https://www.reddit.com/r/csbooks
 https://www.reddit.com/r/cseducation
