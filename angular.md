@@ -11,7 +11,6 @@ https://docs.angularjs.org/guide/scope
 https://github.com/angular/angular.js/wiki/Understanding-Scopes
 http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=as_li_ss_tl?ie=UTF8&qid=1454976112&sr=8-1&keywords=angularjs&linkCode=sl1&tag=nethta-20&linkId=aab7167c496b11066d8c4f61298fb44e
 https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular
-http://mean.io/#!/
 http://meanjs.org/
 https://www.youtube.com/watch?v=OPxeCiy0RdY  http://www.newthinktank.com/2016/02/angularjs-tutorial/  
 https://github.com/mgechev/angularjs-style-guide

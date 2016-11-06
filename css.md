@@ -22,10 +22,16 @@ http://codepen.io/carolineartz/pen/ogVXZj/
 general resources:
 https://css-tricks.com/
 
+selectors: 
+https://gist.github.com/smutnyleszek/809a69dd05e1d5f12d01
+http://www.w3schools.com/cssref/css_selectors.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes 
+
+
 flexbox:
 http://the-echoplex.net/flexyboxes/
 http://flexboxfroggy.com/
-
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 prebuilt css libraries:
 http://getbootstrap.com/css/
@@ -57,3 +63,11 @@ http://www.anotheruiguy.com/ux-design-dev/_book/sass101/README.html
 forms: 
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Styling_HTML_forms
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Advanced_styling_for_HTML_forms
+
+
+centering: 
+https://css-tricks.com/centering-css-complete-guide/
+
+
+font sizes: 
+https://css-tricks.com/rems-ems/

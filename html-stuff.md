@@ -16,3 +16,5 @@ svg:
 https://developer.mozilla.org/en-US/docs/Web/SVG
 https://developer.mozilla.org/en-US/docs/SVG_In_HTML_Introduction
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+http://www.html5rocks.com/en/

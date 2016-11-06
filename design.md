@@ -11,6 +11,7 @@ https://medium.com/designed-thought/the-top-5-google-sans-serif-typefaces-7477bf
 https://fonts.google.com/featured/Headline-Worthy+Serifs
 https://design.google.com/articles/reimagining-google-fonts/
 font-awesome
+http://practicaltypography.com/
 
 font pairings: 
 http://hellohappy.org/beautiful-web-type/
