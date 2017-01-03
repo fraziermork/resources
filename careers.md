@@ -37,20 +37,6 @@ https://www.talentbin.com/           http://www.programmableweb.com/api/talentbi
 https://coderbits.com/               http://www.programmableweb.com/api/coderbits-profile
 
 
-Jobplaces:
-  Seattlewebdesign
-  Urban influence
-  Socrata
-  amazon
-  From CF panel:
-  	Analytics pros
-	   General ui
-
-
-things to learn for front end dev:
-  ruby on rails?
-
-
 Things to look into for data jobs:
   learn python
   Google analytics

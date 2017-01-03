@@ -1,5 +1,5 @@
-Apis I've used:
-
+Api design: 
+https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/
 
 
 apis to think about using:

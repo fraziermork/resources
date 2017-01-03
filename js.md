@@ -22,6 +22,8 @@ https://babeljs.io/docs/learn-es2015/
 http://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/ 
 http://www.sitepoint.com/preparing-ecmascript-6-proxies/
 http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/
+http://node.green/ -- supported features by node version 
+
 
 general js:
 javascript the good parts

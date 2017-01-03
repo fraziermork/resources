@@ -1,4 +1,5 @@
-
+cool tutorial: 
+https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js
 
 
 

@@ -19,6 +19,9 @@ https://femmebot.github.io/google-type/
 http://fontpair.co/
 http://briangardner.com/google-font-combinations/
 https://fonts.google.com/featured/Perfect+Pairings
+https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/
+http://digitalsynopsis.com/design/best-google-font-combinations-typeface-pairings/
+http://typ.io/
 
 
 
